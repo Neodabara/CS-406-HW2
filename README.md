@@ -1,6 +1,6 @@
 # Marcus Brock
 ## CS-406-HW2
-###The second assignment for CS-406
+### The second assignment for CS-406
 
 This assignment focused on using ASP.NET to create a simple website that hosted and editable movie database. The website was able to:
   1. load a table of pre-seeded movies
